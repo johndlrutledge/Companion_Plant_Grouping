@@ -1,0 +1,108 @@
+names,helps,attracts/hosts,avoid,repels/traps,helped by,attracts
+"['medicago sativa', 'alfalfa']",['cotton'],[],"['fava beans', 'tomatoes']",['lygus bugs'],[],"['parasitic wasps', 'big-eyed bug', 'assassin bug', 'ladybug']"
+"['alliums', 'allium']","['fruit trees', 'capsicum peppers', 'tomatoes', 'brassicas', 'nightshades', 'potatoes', 'carrots']",[],"['peas', 'beans']","['-cabbage maggots', 'slugs see garlic', 'carrot fly', '-rabbits', '-aphids', '-japanese beetles', '-cabbage worms', '-cabbage loopers']","['marigolds tagetes spp', 'carrots', 'mints', 'tomatoes', 'african', 'carrots']",['thrips']
+"['lobularia maritima', 'alyssum']","['lettuce', 'grapes']",[],[],['aphids'],[],"['syrphidae', 'most beneficial insects']"
+"['pimpinella anisum', 'anise']",[],[],[],[],['coriander'],"['butterflies', 'bees', 'hummingbirds']"
+"['apple', 'malus domestica']",[],[],"['walnut', 'cedar']",[],"['daffodils', 'comfrey', 'southernwood', 'leeks', 'garlic', 'nasturtium', 'clover', 'chives']",[]
+"['prunus armeniaca', 'apricot']",[],[],['peppers'],[],[],[]
+"['asparagus', 'asparagus officinalis']","['parsley', 'tomatoes']",[],"['garlic', 'potatoes', 'gladiolus', 'onion']",[],"['marigolds', 'aster family flowers', 'comfrey', 'basil', 'coriander', 'nasturtiums', 'parsley', 'tomatoes', 'dill']",['coupled']
+"['babys breath', 'gypsophila paniculata']",[],[],[],['aphids'],[],['syrphidae']
+"['mimosa pudica', 'bashful mimosa']","['ground', 'peppers']",['predatory beetles'],[],[],[],[]
+"['basil', 'ocimum basilicum']","['oregano', 'asparagus', 'peppers', 'grapes', 'petunias', 'tomato']",[],"['thyme', 'common rue']","['mosquitoes', 'asparagus beetle', 'thrips', 'flies', 'hornworms']","['anise', 'chamomile']","['snails', 'slugs', 'butterflies']"
+"['bush', 'phaseolus vulgaris', 'beans']","['strawberries', 'cucumber']",[],"['soybeans', 'dry beans', 'fennel', 'alfalfa']",[],"['strawberries', 'celery', 'grains']",[]
+"['fava', 'beans', 'vicia faba']",[],[],[],[],"['celery', 'strawberries']",[]
+"['pole', 'phaseolus vulgaris', 'beans']",[],[],"['sunflowers', 'brassicas', 'kohlrabi', 'beets']",[],"['corn', 'radishes']",[]
+"['monarda spp', 'bee balm']",['tomato'],[],[],[],[],['bees']
+"['beets', 'beta vulgaris']","['cabbage', 'onions', 'brassicas', 'broccoli', 'kohlrabi', 'passion fruit', 'lettuce', 'bush beans']",[],['runner'],[],"['catnip', 'bush beans', 'most brassicas', 'onions', 'kohlrabi', 'garlic', 'mint', 'lettuce']",[]
+"['vaccinium spp', 'blueberries']",[],[],['tomatoes'],[],"['pine trees', 'clover', 'dewberries', 'oak trees', 'bay laurel', 'yarrow', 'strawberries']",[]
+"['borago officinalis', 'borago officinalis borage', 'borage']","['everything', 'beans', 'legumes', 'strawberry', 'cucumber', 'cabbage', 'brassicas', 'cucurbits', 'squash', 'fruit trees', 'tomatoes']",['predatory wasps'],[],"['tomato worm', 'pests']",[],"['predatory insects', 'honeybees']"
+"['brassica', 'brassicas']","['cereals  corn', 'beets', 'onions', 'potatoes', 'wheat']",[],"['pole beans', 'tomatoes', 'mustards', 'peppers', 'nightshades', '', 'strawberries']",['wireworms'],"['hyssop', 'wormwood', 'onions', 'rosemary', 'garlic', 'peppermint', 'such as celery', 'tansy', 'spinach', 'thyme', 'borage', 'sage', 'chamomile', 'marigolds', 'beets', 'southernwood', 'nasturtium', 'dill', 'potatoes', 'clover', 'spurrey', 'beans', 'spearmint', 'rye-grass', 'aromatic', 'chard', 'peas', 'geraniums', 'alliums', 'tomatoes']",[]
+"['brassica oleracea', 'broccoli']",['lettuce'],[],[],[],"['mixture mustard', 'tomato', 'pac choi', 'onions', 'turnip', 'rabe', 'dill', 'lettuce', 'clover', 'mustard', 'beets']",[]
+"['brassica oleracea', 'brussels sprouts']",[],[],[],[],"['thyme', 'clover', 'malting barley', 'sage']",[]
+"['cabbage', 'brassica chinensis', 'brassica oleracea']","['celery', 'beans']",[],['grapes'],[],"['hyssop', 'onions', 'rosemary', 'nasturtiums', 'mint', 'beets', 'larkspur', 'sage', 'chamomile', 'marigolds', 'green onions', 'calendula', 'dill', 'lacy phacelia', 'pot marigold', 'with chinese cabbage', 'coriander', 'thyme', 'clover', 'tomatoes', 'beans']","['snails', 'slugs']"
+"['californian poppy', 'eschscholzia californica']",[],[],[],['aphids'],[],['syrphidae']
+"['euphorbia lathyris', 'caper spurge']",[],[],[],['moles'],[],[]
+"['carum carvi', 'caraway']",['strawberries'],[],['dill'],[],[],"['parasitic wasps', 'parasitic flies']"
+"['carrots', 'daucus carota']","['beans', 'tomatoes', 'onions', 'leeks', 'passion fruit', 'lettuce', 'alliums']",[],"['dill', 'parsnip', 'radish']","['leek moth', 'onion fly']","['lettuce', 'alliums chives', 'beans', 'wormwood', 'onions', 'flax', 'leeks', 'rosemary', '', 'shallots', 'sage']","['predatory wasps', 'assassin bug', 'lacewing', 'parasitic wasp', 'yellow jacket']"
+"['nepeta cataria', 'catnip']",['eggplant'],[],[],"['ants', 'flea beetles', 'aphids']",[],[]
+"['brassica oleracea', 'cauliflower']","['celery', 'peas', 'spinach', 'beans']",[],[],[],"['marigolds', 'sunflower', 'mixture chinese cabbage', 'peas', 'rape', 'spinach']",[]
+"['celery', 'apium graveolens']","['brassicas', 'bush beans', 'cucumber']",[],"['corn', 'aster flowers']",['whiteflies'],"['cabbage', 'cosmos', 'cauliflower', 'leeks', 'snapdragons', 'tomatoes', 'bush beans', 'daisies']",[]
+"['matricaria recutita', 'chamomile']","['cabbage', 'cucumber', 'onion', 'brassicas', 'wheat', 'most herbs']",[],[],[],[],"['hoverflies', 'wasps']"
+"['chard', 'beta vulgaris ssp', 'cicla']","['brassicas', 'passion fruit']",[],[],[],[],[]
+"['anthriscus cerefolium', 'chervil']","['lettuce', 'broccoli', 'radish']",[],['radish'],['aphids'],[],[]
+"['allium schoenoprasum', 'chives']","['brassica broccoli', 'cabbage', 'mustard', 'others', 'carrots', '', 'grapes', 'roses', 'tomatoes', 'apples']",[],"['peas', 'beans']","['carrot fly', 'aphids', 'mites', 'nematodes', 'cabbage worms']",['carrots'],[]
+"['cilantro', 'coriander', 'coriandrum sativum']","['lettuce', 'spinach', 'tomato', 'anise cabbage']",[],[],"['potato beetle', 'white flies', 'spider mites', 'aphids']","['peas', 'beans']","['hoverflies', 'tachinid fly']"
+"['clover', 'trifolium']","['brassicas like cabbage', 'broccoli']",['pollinators'],"['clover', 'dont', 'tomato']",[],[],[]
+"['corn', 'maize', 'zea mays']","['cucurbits', 'soybeans', 'tomatoes', 'beans']",[],"['celery', 'tomato']",[],"['legumes beans', 'lambs quarters', 'peanuts', 'peas', 'white geranium', 'pigweed', 'cucurbits', 'potato', 'morning glory', 'soybeans', 'parsley', 'sunflowers', 'clover', 'field mustard', 'sudan grass', 'amaranth', 'dill']",[]
+"['crow garlic', 'allium vineale']","['fruit trees', 'tomatoes', 'broccoli', 'peppers', 'brassicas cabbage', 'nightshades', 'potatoes', '', 'kohlrabi', 'carrots']",[],"['parsley', 'peas', 'beans']","['cabbage worms', 'slugs', 'carrot fly', 'aphids']",[],[]
+"['cucumis sativus', 'cucumber']","['kohlrabi', 'lettuce', 'beans']",[],"['aromatic herbs', 'potato']","['ants', 'raccoons']","['chamomile', 'marigolds', 'amaranth amaranthus cruentus', 'beans', 'malabar spinach', 'onions', 'peas', 'kohlrabi', 'garlic', 'carrots', 'nasturtiums', 'radishes', 'dill', 'celery', 'sunflowers', 'beets']",['beneficial']
+"['cucurbits', 'cucurbitaceae']",['corn'],[],[],[],"['grain sorghum', 'corn']",[]
+"['dandelion', 'taraxacum']",['any garden plant'],['pollinators'],[],[],[],[]
+"['dianthus', 'dianthus caryophyllus']","['lavender', 'roses', 'foxglove', 'echinacea', 'aster']",[],[],['slugs'],[],[]
+"['anethum graveolens', 'dill']","['cabbage', 'brassicas', 'broccoli', 'onions', 'aubergine', 'cucumbers', 'corn', 'fennel', 'lettuce', 'eggplant']",[],"['tomatoes', 'carrots']","['squash bugs', 'cabbage looper', 'spider mites', 'aphids']",['fennel'],"['honeybees', 'hoverflies', 'tiger swallowtail butterflies', 'ichneumonid wasps', 'ladybugs', 'wasps', 'caterpillars', 'tomato hornworm']"
+"['solanum melongena', 'eggplant or aubergine']","['tomatoes', 'passion fruit', 'beans', 'peppers']",[],[],[],"['catnip', 'marigolds', 'tarragon', 'redroot pigweed', 'mints', 'thyme', 'green beans', 'dill']",[]
+"['foeniculum vulgare', 'fennel']",['dill'],[],['everything'],['aphids'],['dill'],"['syrphid fly', 'ladybugs', 'tachinid fly']"
+"['linum usitatissimum', 'flax']","['carrots', 'potatoes']",[],['everything'],['colorado potato beetle'],[],[]
+"['fruit trees', 'various']",[],[],[],[],"['marigolds', 'lemon balm', 'tansy', 'dandelions', 'alliums', 'marjoram', 'nasturtiums', 'mustards', 'borage']",[]
+"['garlic', 'allium sativum']","['brassicas', 'peas', 'vetch', 'cucumbers', 'potatoes', 'roses', 'lettuce', 'tomatoes', 'beets', 'celery']",[],"['grapes', 'cabbages']","['fruit borers', 'japanese beetles', 'mites', 'slugs', 'red spider mites', 'cabbage maggot', 'ants', 'cabbage looper', 'aphids']","['peas', 'tarragon']",[]
+"['pelargonium spp', 'geraniums']","['grapes', 'corn', 'roses', 'peppers']",[],"['eggplants', 'tobacco', 'tomatoes', 'nightshades']","['japanese beetles', 'leafhoppers']",[],[]
+"['vitis spp', 'grapes']",[],[],"['garlic', 'cabbage', 'radishes']",[],"['beans', 'oregano', 'peas', 'basil', 'mustards', 'blackberries', 'geraniums', 'clover', 'alyssum', 'chives', 'hyssop']",[]
+"['hyssopus officinalis', 'hyssop']","['cabbage', 'grapes', 'brassicas']",[],['radishes'],"['cabbage moth larvae', 'cabbage butterflies']",[],"['butterflies', 'bees', 'honeybees']"
+"['brassica oleracea v', 'gongylodes', 'kohlrabi']","['cucumbers', 'aromatic plants', 'onion', 'beets']",[],[],[],"['cucumbers', 'beets']",[]
+"['delphinium spp', 'larkspur']","['cabbage', 'beans']",[],[],[],[],[]
+"['dentata', 'l', 'lavandula angustifolia', 'lavender', 'stoechas']","['oregano', 'lemon balm', 'onions', 'brassicas', 'thyme', 'basil', 'rosemary', 'marjoram', 'squash', 'chamomile', 'lettuce', 'tomatoes', 'sage']",[],[],[],[],"['hummingbirds', 'butterflies', 'bees']"
+"['leek', 'allium ampeloprasum v', 'porrum']","['tomato', 'onions', 'passion fruit', 'celery', 'carrots']",[],['swiss chard'],[],['carrots clover'],[]
+"['phaseolus', 'vicia', 'legumes']","['cabbage', 'potato', 'beets', 'peas', 'spinach', 'brassicas', 'carrots', 'cucumbers', 'grapes', 'corn', 'chards', 'lettuce', 'tomatoes', 'okra', 'dill', 'eggplant']",[],"['gladiolas', 'alliums']",['colorado potato beetle'],"['cabbage', 'rosemary', 'peppermint', 'beets', 'lovage', 'larkspur', 'borage', 'radish', 'lettuce', 'marigolds', 'potato', 'onion', 'cucumbers', 'carrots', 'summer savory', 'corn', 'mustards', 'squash', 'cauliflower', 'lacy phacelia']","['snails', 'slugs']"
+"['lemon grass', 'cymbopogon citratus']",['eggplant'],[],[],['cutworms'],[],[]
+"['lettuce', 'lactuca sativa']","['beans', 'broccoli', 'beets', 'onions', 'passion fruit', 'carrots', 'radish', 'okra']",[],"['cabbage', 'celery', 'cress', 'parsley']",[],"['beans', 'broccoli', 'cilantro', 'onions', 'beets', 'kohlrabi', 'carrots', 'cucumbers', 'nasturtiums', 'thyme', 'strawberries', 'alyssum', 'dill', 'radish']","['snails', 'slugs']"
+"['levisticum officinale', 'lovage']",['beans'],[],['rhubarb'],[],[],"['good', 'ground beetles', 'ichneumonid wasps']"
+"['lupin', 'lupinus']","['cucurbits', 'brassica', 'strawberry', 'rosemary', 'rose', 'lettuce', 'dill']",[],"['solanaceae', 'tomatoes']",[],"['rose', 'summer savory']",['honeybees']
+"['marigold', 'tagetes patula', 't', 'minuta', 'erecta']","['brassicas', 'zucchini', 'cucurbits', 'gourds', 'potatoes', 'peppers', 'most plants', 'cucumbers', 'squash', 'roses', 'alliums', 'tomatoes']",[],[],"['root-knot nematodes', 'cabbage root fly', 'onion fly', 'beet leaf hoppers', 'cucumber beetle', 'squash bug']",['rose'],"['snails', 'slugs']"
+"['melon', 'cucumis melo']",[],[],[],[],"['sow thistle', 'pigweed', 'summer savoury', 'chamomile']",[]
+"['sinapis alba', 'mustard']","['cabbage', 'brussels sprouts', 'cauliflower', 'broccoli', 'radish', 'grapes', 'turnips', 'fruit trees', 'beans']",[],[],['various pests'],[],[]
+"['nasturtium', 'tropaeolum majus']","['brassicas', 'radish cucumbers', 'squash', 'fruit trees', 'tomatoes', 'beans']",[],['cauliflower'],"['cabbage worm', 'carrot fly', 'asparagus beetle', 'japanese beetle', 'squash bug', 'striped pumpkin beetles', 'flea beetle', 'cabbage looper', 'whitefly', 'cabbage weevil', 'colorado potato beetle', 'cucumber beetles', 'mexican bean beetle', 'aphids']",[],['predatory insects']
+"['nettle', 'urtica dioica']","['tomato', 'fennel', 'broccoli', 'mint', 'valerian']",[],[],[],[],[]
+"['solanaceae', 'nightshades']",[],[],"['black walnuts', 'brassicas', 'beans', 'corn', 'fennel', 'dill']",[],"['oregano', 'mints basil', 'alliums', 'carrots']",[]
+"['okra', 'abelmoschus esculentus']","['sweet potato', 'tomatoes', 'peppers']",[],[],[],"['sweet potato', 'peppers', 'squash', 'lettuce', 'beans']",[]
+"['allium cepa', 'onion']","['cabbage', 'green onions', 'broccoli', 'beets', 'brassicas', 'peppers', 'passion fruit', 'with chinese cabbage', 'carrots', 'cucumbers', 'lettuce', 'strawberries']",[],"['lentils', 'peas', 'beans']",[],"['chamomile', 'marigolds', 'brassicas', 'summer savory', 'beets', 'mints', 'pansy', 'lettuce', 'strawberries', 'tomatoes', 'carrots', 'dill']",[]
+"['origanum vulgare', 'oregano']","['plants', 'peppers', 'grapes', 'tomatoes', 'pumpkin']",[],[],['aphids'],['basil'],"['hoverflies', 'syrphidae']"
+"['pansy', 'viola x wittrockiana']","['alliums', 'onions', 'roses']",[],"['slugs', 'snails', 'white butterfly', 'ants with aphids']","['butterflies', 'bees', 'ants']",['roses'],[]
+"['petroselinum crispum', 'parsley']","['tomatoes', 'asparagus', 'corn', 'maize']",[],"['lettuce', 'alliums']",[],"['rose', 'asparagus', 'apple']","['flies', 'wasps', 'swallowtail butterflies']"
+"['parsnip', 'pastinaca sativa']",['fruit trees'],[],[],[],[],['predatory insects']
+"['passion fruit', 'passiflora edulis']",[],[],"['cucurbits', 'cowpea', 'sweet potatoes', 'maize', 'okra', 'sorghum']",[],"['strawberries', 'onions', 'spinach', 'leeks', 'carrots', 'eggplants', 'lettuce', 'swiss chard', 'beets', 'potatoes']",[]
+"['arachis hypogaea', 'peanut']","['sunflower', 'cucumber', 'melon', 'marigold', 'corn', 'lettuce', 'beans', 'eggplant']",[],[],[],[],[]
+"['pyrus spp', 'pears']",[],[],[],[],['aromatic plants'],[]
+"['peas', 'pisum sativum']","['brassicas', 'cauliflower', 'turnip', 'garlic']",[],[],['colorado potato beetle'],"['garlic', 'mints', 'turnip', 'cauliflower']",[]
+"['mentha piperita', 'peppermint']","['cabbage', 'peas', 'brassicas', 'alliums', 'tomatoes']",[],[],"['cabbage root fly', 'aphids', 'onion fly', 'cabbage looper', 'ants']",[],[]
+"['capsicum', 'solanaceae', 'peppers']",['okra'],[],"['brussels sprouts', 'kale cabbage', 'beans']",[],"['sunflowers', 'onions', 'crimson clover', 'basil', 'marjoram', 'petunias', 'field mustard', 'geraniums', 'tomatoes', 'okra', 'beans']",[]
+"['petunia x hybrida', 'petunia']","['cucurbits', 'asparagus', 'cucumbers', 'squash', 'pumpkins']",[],[],"['japanese beetles', 'leafhoppers', 'asparagus beetle', 'aphids']",[],[]
+"['phacelia tanacetifolia', 'phacelia']","['lettuce', 'plants', 'tomato', 'rose']",[],[],[],[],['hoverfly']
+"['solanum tuberosum', 'potato']","['brassicas', 'beans', 'peas', 'passion fruit', 'corn']",[],"['atriplex', 'sunflower', 'tomato', 'cucumber', 'carrot', 'squash', 'raspberries', 'pumpkin']",['mexican bean beetle'],"['marigolds', 'beans', 'onion', 'peas', 'garlic', 'dead nettle', 'thyme', 'clover', 'horseradish']",[]
+"['cucurbita pepo', 'pumpkin']","['corn', 'beans']",[],['potatoes'],[],"['buckwheat', 'catnip', 'oregano', 'tansy', 'radishes', 'nasturtiums', 'jimson weed']","['spiders', 'ground beetles']"
+"['raphanus sativus', 'radish']","['pole beans', 'beans', 'cucumber', 'peas', 'lettuce', 'squash eggplant']",[],['grapes'],"['cucumber beetles', 'flea beetles']","['lettuce', 'chervil', 'nasturtiums']",[]
+"['rosa spp', 'rose']",[],[],[],[],"['garlic', 'marigolds', 'chives']",[]
+"['rosmarinus officinalis', 'rosemary']","['beans', 'cabbage', 'brassicas', 'carrots', 'thyme']",[],[],['bean beetle'],[],[]
+"['salvia officinalis', 'sage']","['cabbage', 'brussels sprouts', 'brassicas', 'beans', 'strawberry', 'tomato', 'rosemary', 'carrots', 'marjoram']",[],"['common rue', 'avoid']","['bean parasites', 'carrot fly', 'black flea beetle', 'cabbage maggot', 'cabbage looper', 'cabbage flies']",[],"['honeybees', 'cabbage butterfly']"
+"['artemisia abrotanum', 'southernwood']","['brassicas', 'fruit trees']",[],[],[],[],[]
+"['glycine max', 'soybean']",[],[],[],[],"['corn', 'snap beans', 'sunflower']",[]
+"['spearmint', 'mentha spicata']","['cabbage', 'peas', 'brassicas', 'alliums', 'tomatoes']",[],[],"['onion fly', 'ants', 'aphids', 'cabbage root fly']",[],[]
+"['spinacia oleracea', 'spinach']","['brassicas', 'cauliflower', 'passion fruit']",[],[],[],"['beans', 'peas', 'strawberries', 'cauliflower']",[]
+"['squash', 'cucurbita spp']","['corn', 'beans', 'okra']",[],[],[],"['catnip', 'marigolds', 'tansy', 'borage', 'buckwheat', 'radishes', 'nasturtiums', 'beans']","['spiders', 'ground beetles']"
+"['stinging nettle', 'urtica dioica']","['broccoli', 'sage', 'marjoram', 'chamomille', 'mint', 'tomatoes', 'peppermint', 'valerian', 'angelica archangelica']",[],[],['aphids'],[],[]
+"['fragaria × ananassa', 'strawberries']","['bush beans', 'onions', 'spinach', 'passion fruit', 'lettuce']",[],"['brassicas', 'bush', 'chrysanthemums', 'peppers', 'potatoes', 'verticillium-susceptible species tomatoes', 'mint', 'roses', 'okra', 'melons', 'stone fruits', 'eggplant']",[],"['lupin', 'onions', 'borage', 'caraway', 'thyme', 'bush beans', 'sage']","['snails', 'slugs']"
+"['satureja hortensis', 'summer savoury']","['melon', 'onions', 'beans']",[],[],[],[],[]
+"['helianthus annuus', 'sunflower']","['cucumber', 'soybeans', 'swan plant', 'corn', 'peppers', 'tomatoes']",[],['pole beans'],['aphids'],['swan plant'],[]
+"['swan plant', 'gomphocarpus physocarpus', 'milkweed', 'asclepias physocarpa']",['sunflower'],[],"['plants', 'spider mites']",['aphids'],"['basil', 'sunflower']",['monarch butterfly']
+"['sweet pea', 'lathyrus odoratus']","['lavender', 'lobelia', 'catmint', 'roses', 'sweet alyssum']",[],['aphids'],[],"['silverbeet', 'salads', 'brassica', 'spinach']","['butterflies', 'bees']"
+"['sweet potato', 'ipomoea batatas']",['okra'],[],[],[],['okra'],[]
+"['tansy', 'tanacetum vulgare']","['brassicas', 'fruit trees', 'cucurbits', '', 'corn', 'squash', 'cucumbers', 'raspberries', 'roses', 'beans']",[],[],"['carrot fly', 'asparagus beetle', 'striped cucumber beetles', 'flea beetle', 'cutworm', 'japanese beetles', 'squash bugs', 'flies', 'cabbageworm', 'cabbage maggot', 'ants', 'ichneumonid wasps', 'flying insects', 'colorado potato beetle', 'cabbage butterfly', 'mice']",[],"['ladybugs', 'honeybees']"
+"['artemisia dracunculus', 'tarragon']","['but eggplant', 'most vegetables']",[],[],[],[],[]
+"['thymus vulgaris', 'thyme']","['cabbage', 'brussels sprouts', 'brassicas', 'tomato', 'potato', 'strawberry', 'aubergine', 'eggplant']",[],[],"['aphids', 'cabbage worm', 'cabbage looper', 'whitefly', 'cabbage weevil']",[],"['hoverflies', 'syrphidae']"
+"['solanum lycopersicum', 'tomatoes']","['celery', 'asparagus', 'roses', 'peppers']",[],"['beetroot', 'peas', 'brassicas', 'rosemary', 'alfalfa', 'potatoes', 'corn', 'black walnut', 'fennel', 'dill', 'chili peppers']",['asparagus beetle'],"['garlic', 'chives', 'barley', 'bee balm monarda', 'thyme', 'flower strips', 'borage', 'mustard', 'sage', 'basil', 'marigold', 'leeks', 'carrots', 'cucumbers', 'corn', 'nasturtium', 'squash', 'celery', 'asparagus', 'dill', 'eggplant', 'beans', 'oregano', 'mints', 'coriander', 'petunias', 'parsley', 'geraniums', 'alliums', 'okra', 'fenugreek']",[]
+"['brassica napobrassica', 'turnips', 'brassica rapa', 'rutabagas']","['peas', 'broccoli']",[],"['knotweed', 'hedge mustard']",[],"['hairy vetch', 'peas']",[]
+"['juglans spp', 'walnut tree']",[],[],"['grasses', 'apple trees']",[],"['crownvetch', 'alder sacrifice plant', 'sericea lespedeza', 'hairy vetch']",[]
+"['brassicaceae', 'wild mustard']","['cabbage', 'cauliflower', 'broccoli', 'grape vine', 'radish', 'non-mustard brassica']",['ladybugs'],['beets'],"['aphids', 'traps']",[],[]
+"['wild rose', 'rosa']","['grapes', 'strawberries', 'roses']",[],[],"['deer', 'rodents']",[],[]
+"['artemisia absinthium', 'wormwood']","['carrots', 'brassicas']",[],[],['ants'],[],[]
+"['yarrow', 'achillea millefolium']","['many plants', 'most aromatic plants']",[],[],['aphids'],[],"['damselbugs', 'ladybugs', 'predatory wasps', 'hoverflies']"
+"['zinnia', 'zinnia']","['tomatoes', 'beans', 'peppers']",[],[],['whiteflies'],[],[]
