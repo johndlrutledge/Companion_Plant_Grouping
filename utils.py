@@ -2,8 +2,73 @@ import requests
 from bs4 import BeautifulSoup
 import bs4
 import pandas as pd
-import os
+import os, re
 from pandas.api.types import is_numeric_dtype
+import requests, re
+from bs4 import BeautifulSoup
+import bs4
+import pandas as pd
+import os
+import gradio as gr
+from copy import deepcopy
+import random
+from transformers import pipeline
+import warnings
+warnings.filterwarnings('ignore')
+import logging
+logging.getLogger("transformers.tokenization_utils").setLevel(logging.ERROR)
+
+def get_links(query):
+    try:
+        # requests search whoogle on http://127.0.0.1:5000/search
+        r = requests.get('http://127.0.0.1:5000/search' + f'?q={query}', timeout=15)
+    except Exception as e:
+        os.system("whoogle-search")
+        r = requests.get('http://127.0.0.1:5000/search' + f'?q={query}', timeout=15)
+    links_https = [link for link in [link for link in [link.get("href") for link in BeautifulSoup(r.content, "html.parser").find_all("a")] if link.startswith("https")] if "youtube" not in link and "google.com" not in link and "github" not in link and re.search(r"[a-zA-Z0-9]/[a-zA-Z0-9]", link)]
+    # remove # and & from links
+    links_https = [link.split("#")[0].split("&")[0] for link in links_https]
+    # remove tracking from links
+    links_https = [link.split("?")[0] for link in links_https]
+    # remove duplicates
+    links_https = list(set(links_https))
+    return links_https
+
+def get_webpage(link):
+    try:
+        
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3029.110 Safari/537.36'}
+
+        r = requests.post(link, headers=headers, timeout=10)
+        soup = BeautifulSoup(r.content, 'html.parser')
+
+        return r.content
+    except Exception as e:
+        print(e)
+        return None
+
+def get_webpages(links, paralell=True):
+    if paralell:
+        from multiprocessing import Pool
+        with Pool(8) as p:
+            webpages = p.map(get_webpage, links)
+    else:
+        webpages = [get_webpage(link) for link in links]
+    return webpages
+
+def template(system_message: str, search_results_message: str, user_prompt: str):
+    """This function is used to create the final output message to the user. It takes in the system message, search results message, and user prompt and returns a formatted string.
+    
+    Args:
+        system_message (str): The system message to the user.
+        search_results_message (str): The search results message to the user.
+        user_prompt (str): The user prompt to the user.
+        
+    Returns:
+        str: The formatted string to be returned to the user."""
+
+    f ="<|im_start|>system_message\n{system_message}<|im_end|>\n<|im_start|>user\nDataBase Results: {search_results_message}\n\nUser Query/Task: {user_prompt}<|im_end|>".format(system_message=system_message, search_results_message=search_results_message, user_prompt=user_prompt)
+    return f
 
 class Plant_Table:
     """
